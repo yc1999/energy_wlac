@@ -74,4 +74,3 @@ Other packages, such as torch, should be installed separately. You can refer to 
    ```
 
     Note: Please modify the ckpt directory in `valid.sh` as needed.
->>>>>>> ae6b684 (init)
